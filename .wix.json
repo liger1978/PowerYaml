@@ -1,0 +1,10 @@
+﻿{
+    "UpgradeCodeX86":  "7AFD016D-2507-C9AC-DD0B-20DA8BAADF61",
+    "UpgradeCodeX64":  "5A748978-F7C6-A956-C9A9-1FE79145FD76",
+    "ProductShortName":  "PowerYaml",
+    "ProductName":  "Windows PowerShell Module for Yaml.Net",
+    "AboutLink":  "https://github.com/scottmuc/PowerYaml",
+    "Manufacturer":  "scottmuc@gmail.com",
+    "HelpLink":  "https://github.com/scottmuc/PowerYaml",
+    "ProductVersion":  "1.0.5"
+}
